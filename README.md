@@ -1,1 +1,1 @@
-## Repository under development. Come back later :)
+# Project was moved to [Madkom organisation](https://github.com/madkom/event-sourcing-php)
